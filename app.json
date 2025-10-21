@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "app-dream",
-    "slug": "app-dream",
+    "name": "live-app",
+    "slug": "live-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "appdream",
+    "scheme": "liveapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
